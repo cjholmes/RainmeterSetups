@@ -1,0 +1,9 @@
+[AudioRepeat]
+Measure=Plugin
+Plugin=AudioLevelBeta
+Parent=Audio
+Type=Band
+BandIdx=Repeat
+[Repeat]
+Meter=Bar
+MeasureName=AudioRepeat
